@@ -16,8 +16,8 @@ Below is a list of projects contained in this repository, each corresponding to 
 An implementation of various search algorithms to navigate through mazes. This project showcases algorithms such as Breadth-First Search (BFS), Depth-First Search (DFS), and A* Search, among others. Key highlights include:
 
 - **BFS Maze Solver**: Utilizes the Breadth-First Search algorithm to find the shortest path through mazes.
-- **DFS Maze Solver**: Implements Depth-First Search for maze navigation, demonstrating the differences in pathfinding strategies.
-- **A* Maze Solver**: Employs the A* Search algorithm, highlighting its efficiency in finding optimal paths through heuristics.
+- **DFS Maze Solver**: Implements Depth-First Search for maze navigation, demonstrating the differences in pathfinding strategies. (coming soon)
+- **A* Maze Solver**: Employs the A* Search algorithm, highlighting its efficiency in finding optimal paths through heuristics. (coming soon)
 
 [Additional projects and descriptions to be added as the course progresses...]
 
@@ -28,7 +28,7 @@ To get started with the projects:
 
     ```bash
     git clone https://github.com/yourusername/yourrepositoryname.git
-    cd yourrepositoryname
+    cd cs50ai
     ```
 
 2. Navigate to the project of interest and open its Jupyter Notebook using Jupyter Lab or Jupyter Notebook.
